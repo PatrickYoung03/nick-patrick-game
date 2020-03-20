@@ -1,0 +1,10 @@
+body {
+  margin: 0px;
+}
+
+#game {
+  margin: 10px;
+  height: 98vh;
+  width: 98vw;
+  background-color: blue;
+}
